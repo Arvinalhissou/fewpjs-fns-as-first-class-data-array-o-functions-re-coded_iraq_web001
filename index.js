@@ -32,4 +32,7 @@ function unleashDog(dogName, dogBreed) {
 , walkHome, unleashDog];
 console.log(routine.length);
 let arr=[];
-function exerciseDog()
+function exerciseDog(dogName, dogBreed){
+  console.log(routine.length);
+  
+}
