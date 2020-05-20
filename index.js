@@ -30,4 +30,5 @@ function unleashDog(dogName, dogBreed) {
 }
  let routine =[wakeDog,leashDog, walkToPark, throwFrisbee
 , walkHome, unleashDog];
-console.log(routine.length)
+console.log(routine.length);
+let arr=[];
