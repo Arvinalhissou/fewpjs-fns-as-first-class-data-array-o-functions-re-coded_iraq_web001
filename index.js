@@ -39,3 +39,4 @@ function exerciseDog(dogName, dogBreed){
   }
     return arr;
 }
+exerciseDog("")
