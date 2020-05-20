@@ -34,5 +34,5 @@ console.log(routine.length);
 let arr=[];
 function exerciseDog(dogName, dogBreed){
   console.log(routine.length);
-  
+  for(let i<0 ;i )
 }
